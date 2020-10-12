@@ -27,7 +27,7 @@ const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
 const sql = require("sqlite");
 const dateFormat = require('dateformat'); 
 const pretty = require('pretty-ms') 
-const prefix = 'a';
+const prefix = '*';
 var table = require('table').table
 var ti={}  
 ,spee={}
@@ -3527,4 +3527,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login(NzY0OTUwMDQ0NDc3NDg5MTky.X4NtPg._E7rMr42jJVU873TI3RctqWMRp0)
